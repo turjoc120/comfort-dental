@@ -1,0 +1,45 @@
+.captions{
+    position: absolute;
+    width: 60%;
+    left: 0;
+    top: 35%;
+}
+
+/* media queries */
+
+/* mobiles */
+
+@media only screen and (max-width: 600px) {
+    .captions{
+        background-color: rgba(128, 128, 128, 0.151);
+        position: absolute;
+        top:0;
+        font-size: .8rem;
+        width: 100%;
+       
+    }
+    .captions>h1{
+        font-size:1.5rem;
+    }
+    .captions p{
+        font-size: smaller;
+    }
+    .captions .button{
+        padding: 5px 5px;
+        font-size: smaller;
+    }
+    
+    
+}
+
+
+/* tablets  */
+@media only screen and (max-width: 768px) and (min-width: 600px) {
+    .captions{
+        position: absolute;
+        width: 60%;
+        left: 10%;
+        top: 20%;
+       
+    }
+}

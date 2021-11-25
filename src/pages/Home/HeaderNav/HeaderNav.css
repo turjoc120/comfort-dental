@@ -1,0 +1,10 @@
+.brand{
+display: flex;
+flex-direction: column;
+margin: auto 10px; 
+font-weight: bold;
+font-size: 1.1rem;
+}
+.comfort{color: blue;}
+.dental{color: rgba(0, 0, 255, 0.651);}
+
