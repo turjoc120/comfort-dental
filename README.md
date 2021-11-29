@@ -6,12 +6,18 @@ Comfort Dental Care has provided comprehensive, gentle family dentistry to thous
 
 check out our website [comfortDental](https://comfort-dental-c789a.web.app) 
 
+## Build with
+- React.js
+- React-Bootstrap
+- JavaScript
+- Firebase
+- React-Router
 
 ## how to use 
-+ go to our website
-+ check our services
-+ sign up for a free account 
++ go to website
++ check services
++ sign up via email or google account
 + book a appointment
-+ wait for your confirmation call
 
-#### stay connected to our webaite for recant updates about all new service and special services .
+
+#### (ongoing)
